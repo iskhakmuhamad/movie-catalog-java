@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">MovieCatalog</string>
+
+    <string name="todo">poster cardview</string>
+    <string name="title_card_view">title card view</string>
+    <string name="release">2019–08–03</string>
+    <string name="language">en-US</string>
+    <string name="change_language_settings">change language</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_tv_shows">Tv Shows</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="title">Title Film</string>
+    <string name="txt_rating">Rating</string>
+    <string name="txt_release">Release</string>
+    <string name="rate_value">8</string>
+    <string name="double_dot">:</string>
+    <string name="txt_description">Description</string>
+    <string name="detailmovie">Detail Movie</string>
+    <string name="txt_original_title">Original Title</string>
+    <string name="detailtv">Detail Tv Show</string>
+    <string name="listmovie">List Movie</string>
+    <string name="listtv">List Tv show</string>
+
+    <string name="listfav">List Favourite</string>
+    <string name="title_tab_movies">Movies</string>
+    <string name="title_tab_tv">Tv Show\'s</string>
+    <string name="favorite_icon">favorite_icon</string>
+    <string name="succes_save_fav">Saved to Favorite</string>
+    <string name="failed_save_fav">Failed Saved to Favorite</string>
+    <string name="delete_from_fav">DELETE FROM FAVORITE</string>
+    <string name="fail_delete_from_fav">FAILED DELETE FROM FAVORITE</string>
+    <string name="nothing_favorite_movies">Nothing Favorite Movies</string>
+    <string name="nothing_favorit_tv_show">Nothing Favorit Tv Show</string>
+
+    <string name="search">search bar</string>
+    <string name="appwidget_text">Movie CAtalog</string>
+    <string name="add_widget">Add widget</string>
+    <string name="tv_banner_widget">FAVORITE MOVIE CATALOG</string>
+    <string name="tv_empty_widget">Nothing Favoforite Data</string>
+    <string name="menu_daily_remind">Daily Reminder</string>
+    <string name="txt_off">OFF</string>
+    <string name="txt_on">ON</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="daily_reminder_on">Daily Reminder On</string>
+    <string name="daily_reminder_off">Daily Reminder Off</string>
+    <string name="release_reminder_on">Release Reminder On</string>
+    <string name="release_reminder_off">Release Reminder Off</string>
+    <string name="daily_notif_message">Good morning mr./mrs, have you open movie catalog</string>
+    <string name="release_notif_message">Today release movie</string>
+    <string name="query_hint">Input Text</string>
+
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieCatalog</string>
+
+    <string name="todo">poster cardview</string>
+    <string name="title_card_view">title card view</string>
+    <string name="release">2019–08–03</string>
+    <string name="language">id-ID</string>
+    <string name="change_language_settings">Ubah Bahasa</string>
+    <string name="nav_movies">Film</string>
+    <string name="nav_tv_shows">Acara TV</string>
+    <string name="nav_favorite">Favorit</string>
+    <string name="title">Judul Film</string>
+    <string name="txt_rating">Peringkat</string>
+    <string name="txt_release">Rilis</string>
+    <string name="rate_value">8</string>
+    <string name="double_dot">:</string>
+    <string name="txt_description">Deskripsi</string>
+    <string name="detailmovie">Detail Film</string>
+    <string name="txt_original_title">Judul Asli</string>
+    <string name="detailtv">Detail Tv Show</string>
+    <string name="listmovie">Daftar Film</string>
+    <string name="listtv">Daftar Acara TV</string>
+
+    <string name="listfav">Daftar Favorit</string>
+    <string name="title_tab_movies">Film</string>
+    <string name="title_tab_tv">Acara TV</string>
+    <string name="favorite_icon">favorite_icon</string>
+
+
+    <string name="succes_save_fav">Simpan ke Favorite</string>
+    <string name="failed_save_fav">Gagal menyimpan ke Favorit</string>
+    <string name="delete_from_fav">HAPUS DARI FAVORIT</string>
+    <string name="fail_delete_from_fav">GAGAL MENGHAPUS DARI FAVORIT</string>
+    <string name="nothing_favorite_movies">Tidak ada Favorit Film</string>
+    <string name="nothing_favorit_tv_show">Tidak ada Favorit Acara TV</string>
+
+    <string name="search">search bar</string>
+    <string name="appwidget_text">Movie Catolog</string>
+    <string name="add_widget">Tambahkan widget</string>
+    <string name="tv_banner_widget">FAVORITE MOVIE CATALOG</string>
+    <string name="tv_empty_widget">TIDAK ADA DATA FAVORITE</string>
+    <string name="menu_daily_remind">Pengingat Harian</string>
+    <string name="txt_off">MATI</string>
+    <string name="txt_on">AKTIV</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="release_reminder">Pengingat film/movie baru</string>
+
+    <string name="daily_reminder_on">Daily Reminder Dinyalakan</string>
+    <string name="daily_reminder_off">Daily Reminder Dimatikan</string>
+    <string name="release_reminder_on">Release Reminder Dinyalakan</string>
+    <string name="release_reminder_off">Release Reminder Dimatikan</string>
+    <string name="daily_notif_message">Selamat pagi!!, sudahkah anda membuka movie catalog</string>
+    <string name="release_notif_message">Ada movie baru ni</string>
+    <string name="query_hint">Masukan Kata</string>
+
+
+</resources>

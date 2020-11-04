@@ -1,0 +1,44 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:elevation="50dp"
+    android:layout_height="match_parent"
+    android:background="#FF00FF"
+    android:padding="@dimen/widget_margin">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="10">
+
+        <StackView
+            android:id="@+id/st_fav_widget"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="9"
+            android:loopViews="true" />
+
+        <TextView
+            android:elevation="20sp"
+            android:id="@+id/tv_banner_widget"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#696969"
+            android:gravity="center"
+            android:text="@string/tv_banner_widget"
+            android:textColor="#7CFC00"
+            android:textAlignment="center" />
+    </LinearLayout>
+
+    <TextView
+        android:elevation="@dimen/activity_vertical_margin"
+        android:id="@+id/tv_empty_widget"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="#7CFC00"
+        android:text="@string/tv_empty_widget" />
+
+</FrameLayout>
